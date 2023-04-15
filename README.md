@@ -8,7 +8,7 @@
 </p>
 <br/>
 
-- 🔭 I’m currently working on : **Kaggle competitions**
+- 🔭 I’m currently working for : **ZS Associates as an ML engineer**
 
 - 🌱 I’m currently learning : **the math that supports data science**
 

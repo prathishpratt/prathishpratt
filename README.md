@@ -1,16 +1,16 @@
 ### 
 
 <h1 align="center">Hi 👋, I'm Prathish Murugan</h1>
-<h3 align="center">Hopping around the ocean of data science</h3>
+<h3 align="center">Hopping around the ocean of Data Science and Quant</h3>
 
 <p align="center">
   <img src="https://aditikhome.files.wordpress.com/2019/02/0nsgxxd0kwn3qt2ks.gif" />
 </p>
 <br/>
 
-- 
+- 👨🏽‍💻 Currently I'm a : **Master of Science in Data Science student at UCSD** 🌊
 
-- 👨🏽‍💻 I worked as an : **ZS Associates as an ML engineer**
+- 🧠 I worked as an : **ZS Associates as an ML engineer**
 
 - 🌱 I’m currently learning : **the math that supports data science**
 

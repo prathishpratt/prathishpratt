@@ -8,13 +8,15 @@
 </p>
 <br/>
 
-- 🔭 I’m currently working for : **ZS Associates as an ML engineer**
+- 
+
+- 👨🏽‍💻 I worked as an : **ZS Associates as an ML engineer**
 
 - 🌱 I’m currently learning : **the math that supports data science**
 
 - 📫 How to reach me : **prathish.pratt@gmail.com**
 
-- ⚡ Fun fact, **I do street photography and a huge Arsenal fan**
+- ⚡ Fun fact, **I do street photography and am a huge Arsenal fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

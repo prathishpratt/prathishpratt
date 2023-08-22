@@ -10,7 +10,7 @@
 
 - 👨🏽‍💻 Currently I'm a : **Master of Science in Data Science student at UCSD** 🌊
 
-- 🧠 I worked as an : **ZS Associates as an ML engineer**
+- 🧠 I worked as an : **ML engineer at ZS Associates**
 
 - 🌱 I’m currently learning : **the math that supports data science**
 

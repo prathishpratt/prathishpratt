@@ -8,11 +8,11 @@
 </p>
 <br/>
 
-- 👨🏽‍💻 Currently I'm a : **Master of Science in Data Science student at UCSD** 🌊
+- 👨🏽‍💻 Currently I'm a : **MS in Data Science @ UCSD and student researcher @ [Maitrix.org](https://maitrix.org/)** 🌊
 
 - 🧠 I worked as an : **ML engineer at ZS Associates**
 
-- 🌱 I’m currently learning : **the math that supports data science**
+- 🌱 I’m currently learning : **MLOps**
 
 - 📫 How to reach me : **prathish.pratt@gmail.com**
 

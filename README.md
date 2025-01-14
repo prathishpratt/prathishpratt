@@ -8,7 +8,7 @@
 </p>
 <br/>
 
-- 👨🏽‍💻 Currently I'm a : **MS in Data Science @ UCSD and student researcher @ [Maitrix.org](https://maitrix.org/)** 🌊
+- 👨🏽‍💻 Currently I'm a : **MS in Data Science @ UCSD and Data Scientist Intern @ [Aicadium.ai](https://www.aicadium.ai)** 🌊
 
 - 🧠 I worked as an : **ML engineer at ZS Associates**
 
